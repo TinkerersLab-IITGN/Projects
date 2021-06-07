@@ -1,2 +1,2 @@
 # Projects
-This repository contains the projects undertaken by students under Tinkerers' Lab.
+This repository contains the Projects undertaken by students under Tinkerers' Lab.
