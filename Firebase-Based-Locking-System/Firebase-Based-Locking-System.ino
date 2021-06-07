@@ -217,7 +217,7 @@ void unauthoclose()                                                             
 {
     String s = "Users/" + t + " Close";
     Firebase.setString(s,str+" :0");                                                         //Writes Date & Time of access and Roll No. in Firebase/Users
-    digitalWrite(2,LOW);                                                                         //Initialize LCD again                                                                  
+    digitalWrite(2,LOW);                                                                     //Initialize LCD again                                                                  
     str="";
     delay(1);
 }
