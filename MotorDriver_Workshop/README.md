@@ -8,6 +8,7 @@ To install that library, go to [this repo](https://github.com/PaulStoffregen/Enc
 In the Arduino IDE, go the Sketch -> Include Library -> Add .ZIP Library... and select the downloaded zip file.
 
 Here are few resources:
+<br>
 Motor driver shield: https://roboindia.com/tutorials/nodemcu-motor-shield/
 <br>
 Encoder: http://andrewjkramer.net/motor-encoders-arduino/
